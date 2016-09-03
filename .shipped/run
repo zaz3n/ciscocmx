@@ -1,0 +1,4 @@
+#!/bin/bash
+if [[ ! -d node_modules/ ]]; then cp -R /tmp/node_modules/ ./; fi
+node server/server.js
+

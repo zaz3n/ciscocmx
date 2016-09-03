@@ -1,0 +1,54 @@
+<!doctype html>
+<html lang="en-US">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="Content-Type" content="text/html">
+    <title>CMX on Shipped</title>
+    <link rel="stylesheet" type="text/css" media="all" href="css/styles.css">
+    <link rel="stylesheet" type="text/css" href="css/cmxdemo.css"/>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
+    <script type="text/javascript" src="scripts/common.js"></script>
+    <script type="text/javascript" src="scripts/login.js"></script>
+    <script type="text/javascript" src="scripts/listusers.js"></script>
+    <script type="text/javascript" src="scripts/cmxmap.js"></script>
+</head>
+
+<body>
+<div id="topbar">
+  CMX Client Locator on Shipped
+  <button id="logoutButton" class="rbutton" onClick="doLogout()">Logout</button>
+</div>
+
+<div id="w">
+    <div id="logo" style="text-align:center;background:#f0f0f0"><img src="img/logo_blue.png" width="200px" height="125px"></div>
+    <h1 id="heading" style="padding-left:0px"></h1>
+    <div id="errorMessage" class="errorMessage"></div>
+    <div id="loginForm">
+        <table cellspacing="100px" cellpadding="10px" align="center">
+            <tr>
+                <td align="right"><p>CMX Server</p></td>
+                <td align="left"><input id="cmxServer" type="text" class="basictxt" tabindex="1" title="URL of remote CMX server"></td>
+                <td align="right"><input id="virtualize" type="checkbox" tabindex="2" onClick="return setVirtualize()" title="Select to get data from provided sample data files instead of remote CMX server"></td>
+                <td align="left"><p>Virtualize</p></td>
+            </tr>
+            <tr>
+                <td align="right"><p>User Name</p></td>
+                <td colspan="3"><input id="user" type="text" class="basictxt" tabindex="3" placeholder="learning" value="learning" autofocus ></td>
+            </tr>
+            <tr>
+                <td align="right"><p>Password</p></td>
+                <td colspan="3"><input id="pass" type="password" class="basictxt" tabindex="4" placeholder="learning" value="learning"></td>
+            </tr>
+            <tr>
+                <td></td>
+                <td colspan="3"><input type="submit" class="bsicbutton" tabindex="5" onclick="validate();"></td>
+            </tr>
+        </table>
+    </div>
+</div>
+
+<div id="map" style="display:none"></div>
+<div id="content" style="display:none;text-align:center;background:#f0f0f0"></div>
+<script type="text/javascript">doLogout()</script>
+</body>
+</html>

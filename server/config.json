@@ -1,0 +1,5 @@
+{
+  "port": 3000,
+  "cmxServer":"https://64.103.26.61:8081",
+  "virtualize": true
+}

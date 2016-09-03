@@ -1,0 +1,677 @@
+[
+{
+"apMacAddress": "00:2b:01:00:05:00",
+"areaGlobalIdList": [
+7,
+15,
+3,
+2,
+1,
+16,
+17
+],
+"band": "IEEE_802_11_B",
+"bytesReceived": 5910,
+"bytesSent": 6501,
+"changedOn": 1432840956200,
+"confidenceFactor": 64.0,
+"currentlyTracked": true,
+"detectingControllers": "10.10.20.90",
+"dot11Status": "ASSOCIATED",
+"geoCoordinate": null,
+"guestUser": false,
+"historyLogReason": null,
+"ipAddress": [
+"10.10.20.189"
+],
+"macAddress": "00:00:2a:01:00:1e",
+"manufacturer": "Trw",
+"mapCoordinate": {
+"unit": "FEET",
+"x": 229.31813,
+"y": 16.888996,
+"z": 0.0
+},
+"mapInfo": {
+"floorDimension": {
+"height": 16.5,
+"length": 81.9,
+"offsetX": 0.0,
+"offsetY": 0.0,
+"unit": "FEET",
+"width": 307.0
+},
+"floorRefId": "723413320329068590",
+"image": {
+"colorDepth": 0,
+"height": 0.0,
+"imageName": "domain_0_1421088463647.png",
+"maxResolution": 0.0,
+"size": 0.0,
+"sourceFile": null,
+"width": 0.0,
+"zoomLevel": 0
+},
+"mapHierarchyString": "DevNetCampus>DevNetBuilding>DevNetZone",
+"tagList": []
+},
+"networkStatus": "ACTIVE",
+"sourceTimestamp": null,
+"ssId": "DevNet",
+"statistics": {
+"apList": null,
+"currentServerTime": "2015-05-28T20:22:40.352+0100",
+"firstLocatedTime": "2015-05-28T05:36:23.752+0100",
+"lastLocatedTime": "2015-05-28T20:22:36.088+0100",
+"maxDetectedRssi": {
+"antennaIndex": 1,
+"apMacAddress": "00:2b:01:00:06:00",
+"band": "IEEE_802_11_B",
+"lastHeardInSeconds": 2,
+"rssi": -38,
+"slot": 0
+}
+},
+"userName": "David"
+},
+{
+"apMacAddress": "00:2b:01:00:05:00",
+"areaGlobalIdList": [
+9,
+15,
+3,
+2,
+1,
+16,
+17
+],
+"band": "IEEE_802_11_B",
+"bytesReceived": 5910,
+"bytesSent": 6501,
+"changedOn": 1432840956199,
+"confidenceFactor": 32.0,
+"currentlyTracked": true,
+"detectingControllers": "10.10.20.90",
+"dot11Status": "ASSOCIATED",
+"geoCoordinate": null,
+"guestUser": false,
+"historyLogReason": null,
+"ipAddress": [
+"10.10.20.190"
+],
+"macAddress": "00:00:2a:01:00:1f",
+"manufacturer": "Trw",
+"mapCoordinate": {
+"unit": "FEET",
+"x": 105.09453,
+"y": 15.713146,
+"z": 0.0
+},
+"mapInfo": {
+"floorDimension": {
+"height": 16.5,
+"length": 81.9,
+"offsetX": 0.0,
+"offsetY": 0.0,
+"unit": "FEET",
+"width": 307.0
+},
+"floorRefId": "723413320329068590",
+"image": {
+"colorDepth": 0,
+"height": 0.0,
+"imageName": "domain_0_1421088463647.png",
+"maxResolution": 0.0,
+"size": 0.0,
+"sourceFile": null,
+"width": 0.0,
+"zoomLevel": 0
+},
+"mapHierarchyString": "DevNetCampus>DevNetBuilding>DevNetZone",
+"tagList": []
+},
+"networkStatus": "ACTIVE",
+"sourceTimestamp": null,
+"ssId": "DevNet",
+"statistics": {
+"apList": null,
+"currentServerTime": "2015-05-28T20:22:40.352+0100",
+"firstLocatedTime": "2015-05-28T05:36:23.756+0100",
+"lastLocatedTime": "2015-05-28T20:22:36.094+0100",
+"maxDetectedRssi": {
+"antennaIndex": 0,
+"apMacAddress": "00:2b:01:00:02:00",
+"band": "IEEE_802_11_B",
+"lastHeardInSeconds": 2,
+"rssi": -36,
+"slot": 0
+}
+},
+"userName": "Neelesh"
+},
+{
+"apMacAddress": "00:2b:01:00:07:00",
+"areaGlobalIdList": [
+5,
+15,
+3,
+2,
+1,
+16,
+17
+],
+"band": "IEEE_802_11_B",
+"bytesReceived": 49380,
+"bytesSent": 54318,
+"changedOn": 1432840958156,
+"confidenceFactor": 48.0,
+"currentlyTracked": true,
+"detectingControllers": "10.10.20.90",
+"dot11Status": "ASSOCIATED",
+"geoCoordinate": null,
+"guestUser": false,
+"historyLogReason": null,
+"ipAddress": [
+"10.10.20.203"
+],
+"macAddress": "00:00:2a:01:00:2c",
+"manufacturer": "Trw",
+"mapCoordinate": {
+"unit": "FEET",
+"x": 111.741066,
+"y": 38.72393,
+"z": 0.0
+},
+"mapInfo": {
+"floorDimension": {
+"height": 16.5,
+"length": 81.9,
+"offsetX": 0.0,
+"offsetY": 0.0,
+"unit": "FEET",
+"width": 307.0
+},
+"floorRefId": "723413320329068590",
+"image": {
+"colorDepth": 0,
+"height": 0.0,
+"imageName": "domain_0_1421088463647.png",
+"maxResolution": 0.0,
+"size": 0.0,
+"sourceFile": null,
+"width": 0.0,
+"zoomLevel": 0
+},
+"mapHierarchyString": "DevNetCampus>DevNetBuilding>DevNetZone",
+"tagList": []
+},
+"networkStatus": "ACTIVE",
+"sourceTimestamp": null,
+"ssId": "DevNet",
+"statistics": {
+"apList": null,
+"currentServerTime": "2015-05-28T20:22:40.352+0100",
+"firstLocatedTime": "1970-01-01T01:00:00.000+0100",
+"lastLocatedTime": "2015-05-28T20:22:38.156+0100",
+"maxDetectedRssi": {
+"antennaIndex": 0,
+"apMacAddress": "00:2b:01:00:07:00",
+"band": "IEEE_802_11_B",
+"lastHeardInSeconds": 4,
+"rssi": -32,
+"slot": 0
+}
+},
+"userName": "Vijay"
+},
+{
+"apMacAddress": "00:2b:01:00:07:00",
+"areaGlobalIdList": [
+7,
+15,
+3,
+2,
+1,
+16,
+17
+],
+"band": "IEEE_802_11_B",
+"bytesReceived": 38110,
+"bytesSent": 41921,
+"changedOn": 1432840958164,
+"confidenceFactor": 32.0,
+"currentlyTracked": true,
+"detectingControllers": "10.10.20.90",
+"dot11Status": "ASSOCIATED",
+"geoCoordinate": null,
+"guestUser": false,
+"historyLogReason": null,
+"ipAddress": [
+"10.10.20.207"
+],
+"macAddress": "00:00:2a:01:00:30",
+"manufacturer": "Trw",
+"mapCoordinate": {
+"unit": "FEET",
+"x": 60.10292,
+"y": 55.386894,
+"z": 0.0
+},
+"mapInfo": {
+"floorDimension": {
+"height": 16.5,
+"length": 81.9,
+"offsetX": 0.0,
+"offsetY": 0.0,
+"unit": "FEET",
+"width": 307.0
+},
+"floorRefId": "723413320329068590",
+"image": {
+"colorDepth": 0,
+"height": 0.0,
+"imageName": "domain_0_1421088463647.png",
+"maxResolution": 0.0,
+"size": 0.0,
+"sourceFile": null,
+"width": 0.0,
+"zoomLevel": 0
+},
+"mapHierarchyString": "DevNetCampus>DevNetBuilding>DevNetZone",
+"tagList": []
+},
+"networkStatus": "ACTIVE",
+"sourceTimestamp": null,
+"ssId": "DevNet",
+"statistics": {
+"apList": null,
+"currentServerTime": "2015-05-28T20:22:40.352+0100",
+"firstLocatedTime": "1970-01-01T01:00:00.000+0100",
+"lastLocatedTime": "2015-05-28T20:22:38.164+0100",
+"maxDetectedRssi": {
+"antennaIndex": 0,
+"apMacAddress": "00:2b:01:00:07:00",
+"band": "IEEE_802_11_B",
+"lastHeardInSeconds": 4,
+"rssi": -30,
+"slot": 0
+}
+},
+"userName": "Keith"
+},
+{
+"apMacAddress": "00:2b:01:00:08:00",
+"areaGlobalIdList": [
+6,
+15,
+3,
+2,
+1,
+16,
+17
+],
+"band": "IEEE_802_11_B",
+"bytesReceived": 47770,
+"bytesSent": 52547,
+"changedOn": 1432840958164,
+"confidenceFactor": 48.0,
+"currentlyTracked": true,
+"detectingControllers": "10.10.20.90",
+"dot11Status": "ASSOCIATED",
+"geoCoordinate": null,
+"guestUser": false,
+"historyLogReason": null,
+"ipAddress": [
+"10.10.20.208"
+],
+"macAddress": "00:00:2a:01:00:31",
+"manufacturer": "Trw",
+"mapCoordinate": {
+"unit": "FEET",
+"x": 126.37623,
+"y": 26.860802,
+"z": 0.0
+},
+"mapInfo": {
+"floorDimension": {
+"height": 16.5,
+"length": 81.9,
+"offsetX": 0.0,
+"offsetY": 0.0,
+"unit": "FEET",
+"width": 307.0
+},
+"floorRefId": "723413320329068590",
+"image": {
+"colorDepth": 0,
+"height": 0.0,
+"imageName": "domain_0_1421088463647.png",
+"maxResolution": 0.0,
+"size": 0.0,
+"sourceFile": null,
+"width": 0.0,
+"zoomLevel": 0
+},
+"mapHierarchyString": "DevNetCampus>DevNetBuilding>DevNetZone",
+"tagList": []
+},
+"networkStatus": "ACTIVE",
+"sourceTimestamp": null,
+"ssId": "DevNet",
+"statistics": {
+"apList": null,
+"currentServerTime": "2015-05-28T20:22:40.352+0100",
+"firstLocatedTime": "1970-01-01T01:00:00.000+0100",
+"lastLocatedTime": "2015-05-28T20:22:38.164+0100",
+"maxDetectedRssi": {
+"antennaIndex": 0,
+"apMacAddress": "00:2b:01:00:0b:00",
+"band": "IEEE_802_11_B",
+"lastHeardInSeconds": 3,
+"rssi": -34,
+"slot": 0
+}
+},
+"userName": "Mike"
+},
+{
+"apMacAddress": "00:2b:01:00:08:00",
+"areaGlobalIdList": [
+12,
+15,
+3,
+2,
+1,
+16,
+17
+],
+"band": "IEEE_802_11_B",
+"bytesReceived": 47770,
+"bytesSent": 52547,
+"changedOn": 1432840958172,
+"confidenceFactor": 56.0,
+"currentlyTracked": true,
+"detectingControllers": "10.10.20.90",
+"dot11Status": "ASSOCIATED",
+"geoCoordinate": null,
+"guestUser": false,
+"historyLogReason": null,
+"ipAddress": [
+"10.10.20.209"
+],
+"macAddress": "00:00:2a:01:00:32",
+"manufacturer": "Trw",
+"mapCoordinate": {
+"unit": "FEET",
+"x": 130.5735,
+"y": 15.390579,
+"z": 0.0
+},
+"mapInfo": {
+"floorDimension": {
+"height": 16.5,
+"length": 81.9,
+"offsetX": 0.0,
+"offsetY": 0.0,
+"unit": "FEET",
+"width": 307.0
+},
+"floorRefId": "723413320329068590",
+"image": {
+"colorDepth": 0,
+"height": 0.0,
+"imageName": "domain_0_1421088463647.png",
+"maxResolution": 0.0,
+"size": 0.0,
+"sourceFile": null,
+"width": 0.0,
+"zoomLevel": 0
+},
+"mapHierarchyString": "DevNetCampus>DevNetBuilding>DevNetZone",
+"tagList": []
+},
+"networkStatus": "ACTIVE",
+"sourceTimestamp": null,
+"ssId": "DevNet",
+"statistics": {
+"apList": null,
+"currentServerTime": "2015-05-28T20:22:40.352+0100",
+"firstLocatedTime": "1970-01-01T01:00:00.000+0100",
+"lastLocatedTime": "2015-05-28T20:22:38.172+0100",
+"maxDetectedRssi": {
+"antennaIndex": 1,
+"apMacAddress": "00:2b:01:00:08:00",
+"band": "IEEE_802_11_B",
+"lastHeardInSeconds": 4,
+"rssi": -35,
+"slot": 0
+}
+},
+"userName": "Joe"
+},
+{
+"apMacAddress": "00:2b:01:00:08:00",
+"areaGlobalIdList": [
+7,
+15,
+3,
+2,
+1,
+16,
+17
+],
+"band": "IEEE_802_11_B",
+"bytesReceived": 47770,
+"bytesSent": 52547,
+"changedOn": 1432840958158,
+"confidenceFactor": 24.0,
+"currentlyTracked": true,
+"detectingControllers": "10.10.20.90",
+"dot11Status": "ASSOCIATED",
+"geoCoordinate": null,
+"guestUser": false,
+"historyLogReason": null,
+"ipAddress": [
+"10.10.20.210"
+],
+"macAddress": "00:00:2a:01:00:33",
+"manufacturer": "Trw",
+"mapCoordinate": {
+"unit": "FEET",
+"x": 255.15509,
+"y": 56.827118,
+"z": 0.0
+},
+"mapInfo": {
+"floorDimension": {
+"height": 16.5,
+"length": 81.9,
+"offsetX": 0.0,
+"offsetY": 0.0,
+"unit": "FEET",
+"width": 307.0
+},
+"floorRefId": "723413320329068590",
+"image": {
+"colorDepth": 0,
+"height": 0.0,
+"imageName": "domain_0_1421088463647.png",
+"maxResolution": 0.0,
+"size": 0.0,
+"sourceFile": null,
+"width": 0.0,
+"zoomLevel": 0
+},
+"mapHierarchyString": "DevNetCampus>DevNetBuilding>DevNetZone",
+"tagList": []
+},
+"networkStatus": "ACTIVE",
+"sourceTimestamp": null,
+"ssId": "DevNet",
+"statistics": {
+"apList": null,
+"currentServerTime": "2015-05-28T20:22:40.352+0100",
+"firstLocatedTime": "1970-01-01T01:00:00.000+0100",
+"lastLocatedTime": "2015-05-28T20:22:38.158+0100",
+"maxDetectedRssi": {
+"antennaIndex": 1,
+"apMacAddress": "00:2b:01:00:0b:00",
+"band": "IEEE_802_11_B",
+"lastHeardInSeconds": 3,
+"rssi": -31,
+"slot": 0
+}
+},
+"userName": "Brendan"
+},
+{
+"apMacAddress": "00:2b:01:00:08:00",
+"areaGlobalIdList": [
+12,
+15,
+3,
+2,
+1,
+16,
+17
+],
+"band": "IEEE_802_11_B",
+"bytesReceived": 47770,
+"bytesSent": 52547,
+"changedOn": 1432840958159,
+"confidenceFactor": 40.0,
+"currentlyTracked": true,
+"detectingControllers": "10.10.20.90",
+"dot11Status": "ASSOCIATED",
+"geoCoordinate": null,
+"guestUser": false,
+"historyLogReason": null,
+"ipAddress": [
+"10.10.20.212"
+],
+"macAddress": "00:00:2a:01:00:35",
+"manufacturer": "Trw",
+"mapCoordinate": {
+"unit": "FEET",
+"x": 119.837814,
+"y": 26.09697,
+"z": 0.0
+},
+"mapInfo": {
+"floorDimension": {
+"height": 16.5,
+"length": 81.9,
+"offsetX": 0.0,
+"offsetY": 0.0,
+"unit": "FEET",
+"width": 307.0
+},
+"floorRefId": "723413320329068590",
+"image": {
+"colorDepth": 0,
+"height": 0.0,
+"imageName": "domain_0_1421088463647.png",
+"maxResolution": 0.0,
+"size": 0.0,
+"sourceFile": null,
+"width": 0.0,
+"zoomLevel": 0
+},
+"mapHierarchyString": "DevNetCampus>DevNetBuilding>DevNetZone",
+"tagList": []
+},
+"networkStatus": "ACTIVE",
+"sourceTimestamp": null,
+"ssId": "DevNet",
+"statistics": {
+"apList": null,
+"currentServerTime": "2015-05-28T20:22:40.352+0100",
+"firstLocatedTime": "1970-01-01T01:00:00.000+0100",
+"lastLocatedTime": "2015-05-28T20:22:38.159+0100",
+"maxDetectedRssi": {
+"antennaIndex": 0,
+"apMacAddress": "00:2b:01:00:08:00",
+"band": "IEEE_802_11_B",
+"lastHeardInSeconds": 4,
+"rssi": -35,
+"slot": 0
+}
+},
+"userName": "Ben"
+},
+{
+"apMacAddress": "00:2b:01:00:08:00",
+"areaGlobalIdList": [
+6,
+15,
+3,
+2,
+1,
+16,
+17
+],
+"band": "IEEE_802_11_B",
+"bytesReceived": 47770,
+"bytesSent": 52547,
+"changedOn": 1432840958178,
+"confidenceFactor": 64.0,
+"currentlyTracked": true,
+"detectingControllers": "10.10.20.90",
+"dot11Status": "ASSOCIATED",
+"geoCoordinate": null,
+"guestUser": false,
+"historyLogReason": null,
+"ipAddress": [
+"10.10.20.213"
+],
+"macAddress": "00:00:2a:01:00:36",
+"manufacturer": "Trw",
+"mapCoordinate": {
+"unit": "FEET",
+"x": 77.558304,
+"y": 21.325682,
+"z": 0.0
+},
+"mapInfo": {
+"floorDimension": {
+"height": 16.5,
+"length": 81.9,
+"offsetX": 0.0,
+"offsetY": 0.0,
+"unit": "FEET",
+"width": 307.0
+},
+"floorRefId": "723413320329068590",
+"image": {
+"colorDepth": 0,
+"height": 0.0,
+"imageName": "domain_0_1421088463647.png",
+"maxResolution": 0.0,
+"size": 0.0,
+"sourceFile": null,
+"width": 0.0,
+"zoomLevel": 0
+},
+"mapHierarchyString": "DevNetCampus>DevNetBuilding>DevNetZone",
+"tagList": []
+},
+"networkStatus": "ACTIVE",
+"sourceTimestamp": null,
+"ssId": "DevNet",
+"statistics": {
+"apList": null,
+"currentServerTime": "2015-05-28T20:22:40.352+0100",
+"firstLocatedTime": "1970-01-01T01:00:00.000+0100",
+"lastLocatedTime": "2015-05-28T20:22:38.178+0100",
+"maxDetectedRssi": {
+"antennaIndex": 1,
+"apMacAddress": "00:2b:01:00:03:00",
+"band": "IEEE_802_11_B",
+"lastHeardInSeconds": 4,
+"rssi": -37,
+"slot": 0
+}
+},
+"userName": "Steve"
+}
+]

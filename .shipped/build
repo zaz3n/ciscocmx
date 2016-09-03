@@ -1,0 +1,4 @@
+#!/bin/bash
+npm install --no-bin-links
+cp -R node_modules/ /tmp/node_modules
+
